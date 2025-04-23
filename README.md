@@ -1,5 +1,7 @@
 # Spawn Analysis
 
+See `thunderstore_package/README.md` for info on using the mod itself.
+
 ## Contributing
 
 Change the target r2modman profile in
