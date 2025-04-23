@@ -1,0 +1,9 @@
+{
+    "name": "SpawnAnalysis",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/tru0067/GTFO-SpawnAnalysis",
+    "description": "Outputs spawn probabilities for enemy waves.",
+    "dependencies": [
+        "BepInEx-BepInExPack_GTFO-3.2.1"
+    ]
+}
